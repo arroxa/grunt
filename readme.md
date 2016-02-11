@@ -61,5 +61,14 @@ Tarefas como: minificar, concatenar, upload de arquivos e entre tantas outras.
 - Pronto! Se tudo ocorrer direitinho seu navegador irá abrir com uma página demo, e depois é só arroxar! ;)
 
 
+### Contribuir
+Ajude-nos a melhorar nossa aplicação. Abra uma [issue](https://github.com/arroxa/grunt/issues/new) ou  envie um `pull request`.
+- [Fork nosso repositório!](https://github.com/arroxa/grunt#fork-destination-box)
+- Crie sua "feature branch": `git checkout -b minha-nova-feature`
+- Comente suas alterações: `git commit -m 'Comentando minha feature'`
+- Suba sua branch: `git push origin minha-nova-feature`
+- Nos envie seu pull request =D
+
+
 ### Licença
 [MIT License](http://thompsonemerson.mit-license.org/) © Emerson Thompson
