@@ -1,4 +1,5 @@
 <p align="center"><img width="100px" src="/src/img/icon_arroxa.png" alt="logo arroxa"></p>
+
 # Kit Arroxa com Grunt
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](http://thompsonemerson.mit-license.org/)
 [![Build Status](https://travis-ci.org/arroxa/grunt.svg?branch=master)](https://travis-ci.org/arroxa/grunt)
