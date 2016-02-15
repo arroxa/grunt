@@ -1,7 +1,7 @@
 <p align="center"><img width="100px" src="/src/img/icon_arroxa.png" alt="logo arroxa"></p>
 
 # Kit Arroxa com Grunt
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](http://thompsonemerson.mit-license.org/)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](http://arroxa.mit-license.org/)
 [![Build Status](https://travis-ci.org/arroxa/grunt.svg?branch=master)](https://travis-ci.org/arroxa/grunt)
 > O [Grunt](http://gruntjs.com/) é uma aplicação javascript que tem como objetivo facilitar sua vida automatizando suas tarefas.
 Tarefas como: minificar, concatenar, upload de arquivos e entre tantas outras.
@@ -72,4 +72,4 @@ Ajude-nos a melhorar nossa aplicação. Abra uma [issue](https://github.com/arro
 
 
 ### Licença
-[MIT License](http://thompsonemerson.mit-license.org/) © Emerson Thompson
+[MIT License](http://arroxa.mit-license.org/) © Arroxa
