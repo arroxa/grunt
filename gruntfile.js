@@ -139,7 +139,7 @@ module.exports = function ( grunt ) {
 						jshintrc: '.jshintrc',
 					},
 					files: {
-						src: [ 'src/js/app.js' ],
+						src: [ 'src/js/main.js' ],
 					},
 				},
 			},
