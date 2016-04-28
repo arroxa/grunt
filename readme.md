@@ -54,7 +54,7 @@ Tarefas como: minificar, concatenar, upload de arquivos e entre tantas outras.
 
 
 ### Como usar
-- Abra seu terminal/cdn
+- Abra seu terminal/cmd
 - Clone o repositório `$ git clone https://github.com/arroxa/grunt.git`
 - Acesse a pasta clonada `$ cd grunt`
 - Instale as dependências `$ npm install`
